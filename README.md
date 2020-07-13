@@ -8,7 +8,7 @@
 ### Hi there 👋
 
 - :man_technologist: **Back-end** developer. **Game development** passionate.
-- :milk_glass: Grinding my skills in Unity, C#, Python, Django, Flutter and **more**.
+- :milk_glass: **Grinding** my skills in Unity, C#, Python, Django, Flutter and **more**.
 - :books: Information systems student at UNICAMP.
 
 - ⚡ Fun facts: 
