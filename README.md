@@ -15,6 +15,6 @@
   - :video_game: Games lover
   - :guitar: Guitar player
   - :muscle: Fitness addicted
-  - :headphones: Techno music :purple_heart
+  - :headphones: Techno music :purple_heart:
 
 ---
