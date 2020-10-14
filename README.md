@@ -5,6 +5,9 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5519996009662&text=Olá!)](https://api.whatsapp.com/send?phone=5519996009662&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabidferreira9@gmail.com)](mailto:gabidferreira9@gmail.com)
 
+![](https://komarev.com/ghpvc/?username=feggah&color=blueviolet)
+
+
 ### Hi there 👋
 
 - :man_technologist: **Back-end** developer. **Game development** passionate.
