@@ -11,7 +11,8 @@
 ### Hi there 👋
 
 - :man_technologist: **Back-end** developer. **Game development** passionate.
-- :milk_glass: **Grinding** my skills in Unity, C#, Python, Django, Flutter and **more**.
+- :office: Currently working at @stone-payments as Cloud Analyst Intern
+- :milk_glass: **Grinding** my skills in Unity, C#, Python, Django, Flutter, Infra as code and **more**.
 - :books: Information systems student at UNICAMP.
 
 - ⚡ Fun facts: 
