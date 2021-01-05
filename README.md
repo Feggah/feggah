@@ -18,6 +18,6 @@
   - :guitar: Guitar player
   - :muscle: Fitness addicted
   - :headphones: Techno music
-  - :purple_heart: Passionate about teaching and helping as much as I can
+  - :purple_heart: Passionate about teaching and helping people as much as I can
 
 ---
