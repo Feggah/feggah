@@ -1,4 +1,5 @@
 <!--START_SECTION:waka-->
+<img src="https://github.com/Feggah/feggah/blob/master/images/stat.svg" alt="Text"/>
 <!--END_SECTION:waka-->
 
 
