@@ -15,5 +15,5 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ github.token }}
-          BRANCH: "main"
+          BRANCH: "master"
           COMMIT_MSG: "new stats received :dog:"
