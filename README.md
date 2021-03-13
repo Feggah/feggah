@@ -1,11 +1,16 @@
 <img src="https://github.com/Feggah/feggah/blob/master/images/stat.svg" alt="Text"/>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feggah)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## :man_technologist: Gabriel Ferreira
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ferreira070/)](https://www.linkedin.com/in/ferreira070/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabidferreira9@gmail.com)](mailto:gabidferreira9@gmail.com)
 
 ![](https://komarev.com/ghpvc/?username=feggah&color=blueviolet)
+
+
 
 
 ### Hi there 👋
