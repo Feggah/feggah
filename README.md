@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/feggah">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=feggah&theme=radical&show_icons=true" />
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=feggah&theme=radical&show_icons=true&count_private=true" />
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feggah&layout=compact&theme=radical" />
 </a>
 </p>
