@@ -9,9 +9,9 @@ on:
 jobs:
   update-readme:
     name: Update the WakaTime Stat
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:
-      - uses: avinal/Profile-Readme-WakaTime@master
+      - uses: avinal/Profile-Readme-WakaTime@v3.0
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ github.token }}
